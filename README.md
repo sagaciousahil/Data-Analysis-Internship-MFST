@@ -3,8 +3,8 @@ This repository contains all the tasks completed by Sahil Sharma during the Data
 
 ## Tasks
 1. **Task 1**: Understanding Python Data Types
-   Description: This task involves understanding the basic data types in Python such as lists, dictionaries, and sets.
-   File(s): [task1.py](path/to/task1.py)
+Description: This task involves understanding the basic data types in Python such as lists, dictionaries, and sets.
+File(s): [task1.py](path/to/task1.py)
 
 ...
 
