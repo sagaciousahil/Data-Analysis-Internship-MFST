@@ -1,7 +1,7 @@
 # Importing pandas library
 import pandas as pd
 # Reading .csv file with pandas
-df = pd.read_csv("/Users/gopalsharma/Documents/Python/MFST/Task 2/dataset.csv")
+df = pd.read_csv("/Users/gopalsharma/Documents/Python/MFST/Task_2/dataset.csv")
 # Checking the class of dataframe
 print(type(df))
 # Quick overview of dataframe
