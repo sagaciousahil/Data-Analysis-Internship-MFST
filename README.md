@@ -9,8 +9,6 @@ This repository contains all the tasks completed by Sahil Sharma during the Data
 - Description: This task involves using the Pandas library to manipulate data.
 - File(s): [task2.py](task2.py)
 
-...
-
 ## Additional Information
 
 - **Internship Duration**: 15th May, 2024 - 15th July, 2024
