@@ -8,6 +8,9 @@ This repository contains all the tasks completed by Sahil Sharma during the Data
 2. **Task 2**: Data Manipulation with Pandas
 - Description: This task involves using the Pandas library to manipulate data.
 - File(s): [task2.py](task2.py)
+3. **Task 2**: Data Visualization with Matplotlib
+- Description: This task involves using the matplotlib library to visualize data.
+- File(s): [task3.py](task3.py)
 
 ## Additional Information
 
