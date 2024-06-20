@@ -11,6 +11,9 @@ This repository contains all the tasks completed by Sahil Sharma during the Data
 3. **Task 3**: Data Visualization with Matplotlib
 - Description: This task involves using the matplotlib library to visualize data.
 - File(s): [task3.py](task3.py)
+4. **Task 4**: Exploratory Data Analysis
+- Description: This task involves performing exploratory data analysis on a dataset.
+- Files(s): [task4.py](task4.py)
 
 ## Additional Information
 
