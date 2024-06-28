@@ -14,7 +14,9 @@ This repository contains all the tasks completed by Sahil Sharma during the Data
 4. **Task 4**: Exploratory Data Analysis
 - Description: This task involves performing exploratory data analysis on a dataset.
 - Files(s): [task4.py](task4.py)
-
+4. **Task 5**: Feature Engineering and Selection
+- Description: Engineer new features and select relevant features for model training.
+- Files(s): [task5.py](task5.py)
 ## Additional Information
 
 - **Internship Duration**: 15th May, 2024 - 15th July, 2024
