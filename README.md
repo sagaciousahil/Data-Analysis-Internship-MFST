@@ -11,12 +11,15 @@ This repository contains all the tasks completed by Sahil Sharma during the Data
 3. **Task 3**: Data Visualization with Matplotlib
 - Description: This task involves using the matplotlib library to visualize data.
 - File(s): [task3.py](task3.py)
-4. **Task 4**: Exploratory Data Analysis
-- Description: This task involves performing exploratory data analysis on a dataset.
+4. **Task 4**: Exploratory Data Analysis of US YouTube Vides.
+- Description: This task involves performing exploratory data analysis on a dataset based on videos dataset.
 - Files(s): [task4.py](task4.py)
-4. **Task 5**: Feature Engineering and Selection
-- Description: Engineer new features and select relevant features for model training.
+5. **Task 5**: Exploratory Data Analysis of Heart Mediacal Data.
+- Description: Performing exploratory data analysis of heart related disease medical record.
 - Files(s): [task5.py](task5.py)
+6. **Task 6**: Exploratory Data Analysis of Disney+
+- Description: Use of Time Series Analysis and text minning.
+- Files(s): [task6.py](task6.py)
 ## Additional Information
 
 - **Internship Duration**: 15th May, 2024 - 15th July, 2024
